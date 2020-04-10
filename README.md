@@ -5,4 +5,4 @@ Nesse repositorio você encontra todo material usado nas reuniões do grupo de e
 
 #### Reuniões que já rolaram
 
- - [Primeira Reunião 09/04/2020](reunioes/reuniao_09042020)
+ - [Primeira Reunião 09/04/2020](reunioes/reuniao_09042020.md)
