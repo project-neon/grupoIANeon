@@ -2,7 +2,7 @@
 
 
 ```
-pip install -r requiments.txt
+pip install -r requirements.txt
 ```
 
 ### CartPole enviroment
